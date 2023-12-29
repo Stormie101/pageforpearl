@@ -1,0 +1,53 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: url('v1013-p-0009a.jpg') center/cover no-repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    flex-direction: column; /* Add this line */
+}
+
+h3 {
+    text-align: center;
+}
+
+.phy {
+    border: 1px solid black;
+    border-radius: 5px;
+    max-width: 100%;
+    background: white;
+    color: orange;
+}
+
+.phy p {
+    width: max-content;
+}
+
+.phy1{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    max-width: 90%;
+    background-color: orange;
+    color: white;
+}
+
+#button{
+    margin-top: 10px;
+    text-decoration: none;
+    border: 1px solid white;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+}
+
+#button:hover{
+    background-color: orange;
+    color: white;
+    border-color: orange;
+}
