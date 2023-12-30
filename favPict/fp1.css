@@ -1,0 +1,30 @@
+body {
+    background: url('v1013-p-0009a.jpg') center/cover no-repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+}
+
+.main h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    text-align: center;
+}
+
+.box1 p{
+    text-align: center;
+}
+
+.box1{
+    text-align: center;
+}
+
+.box1 video{
+    height: 350px;
+}
+
+.box2{
+    text-align: center;
+}
+
+.box2 img{
+    width: 300px;
+}
