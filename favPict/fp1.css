@@ -19,6 +19,7 @@ body {
 
 .box1 video{
     height: 350px;
+    border: 1px solid black;
 }
 
 .box2{
