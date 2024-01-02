@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    background: url('v1013-p-0009a.jpg') center/cover no-repeat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    text-align: center;
+    border: 1px black solid;
+    background-color: orange;
+    border-bottom-left-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+.inmain{
+    background-color: white;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.main a{
+    text-decoration: none;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 600px; 
+    color: white;
+    background-color: orange;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+a{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 600px; 
+}
